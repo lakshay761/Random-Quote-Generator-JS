@@ -1,0 +1,32 @@
+#colorpad{
+   background-color:#C0C0C0;
+}
+#box{
+  margin-top:10em;
+  border: 1em;
+  border-radius:0.4em;
+  box-sizing: border-box;
+  width:50%;
+  background-color:white;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 0.3em;
+}
+.text{
+    text-align: center;
+}
+h1{
+  font-size: 2em;
+  padding-top:1em;
+  padding-bottom:1.4em;
+}
+#apos{
+  font-size:2em;
+}
+.balign{
+  color:white;
+  text-align:right;
+}
